@@ -8,7 +8,7 @@ import {
 
 import database from "../../config/firebaseconfig"
 import { FontAwesome } from "@expo/vector-icons"
-import styles from "./src/pages/task/style"
+import styles from "./style"
 
 
 export default function Task({ navigation }){
